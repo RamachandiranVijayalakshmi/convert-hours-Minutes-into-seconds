@@ -10,9 +10,9 @@ return (Hours*60*60+minutes*60)
 ```
 ## Example output
 ```
-enter the Hour:3
-enter the Minutes:65
-total seconds for hour & Minute: 14700
+enter the Hour:1
+enter the Minutes:45
+total seconds for hour & Minute: 6300
 ```
 
 
